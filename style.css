@@ -1,0 +1,60 @@
+html,
+body {
+  background-color: #Fcf8f9;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-sizing: border-box;
+  font-family: 'Playfair Display', serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #712433;
+  font-family: 'Permanent Marker', cursive;
+  letter-spacing: 2px;
+  padding: 4px;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+h2,
+p {
+  color: white;
+  letter-spacing: 0.5px;
+  padding: 0.5rem;
+}
+
+header {
+  color: #1a0900;
+  display: flex;
+  align-items: center;
+  height: 10vh;
+}
+
+.card-body {
+  background-color: #af6271;
+}
+
+.content {
+  margin-top: 4rem !important;
+  width: 45vw;
+}
+
+.my-slider {
+  margin-left: 3.5rem;
+}
+
+.poster {
+  width: 45vw;
+}
+
+.slide {
+  width: 60vw;
+}
+
+.controls, .card-body {
+  margin: 0 auto;
+}
